@@ -1,0 +1,19 @@
+{
+  "name": "node-javascript-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "os": "node ./os/index.js",
+    "path": "node ./path/index.js",
+    "fs": "node ./fs/index.js",
+    "promise": "node ./promise/index.js",
+    "http": "http-server ./ -p 9090"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
