@@ -1,0 +1,22 @@
+2018-06-24 19:32:02: 222 Error: 错误信息
+    at Object.<anonymous> (/home/reysun/Desktop/node/console/index.js:52:20)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3 333
+Trace: 2018-06-24 19:32:02: Show me
+    at Object.trace (/home/reysun/Desktop/node/console/index.js:31:16)
+    at Object.<anonymous> (/home/reysun/Desktop/node/console/index.js:53:8)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Function.Module.runMain (module.js:693:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:612:3
+2018-06-24 19:32:02: 警告信息
