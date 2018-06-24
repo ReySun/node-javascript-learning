@@ -8,12 +8,21 @@
     "path": "node ./path/index.js",
     "fs": "node ./fs/index.js",
     "promise": "node ./promise/index.js",
-    "http": "http-server ./ -p 9090"
+    "http": "http-server ./ -p 9090",
+    "process": "node ./process/index.js one two=three four",
+    "querystring": "node ./querystring/index.js",
+    "modules": "node ./modules/index.js",
+    "node_global": "node ./node_global/index.js",
+    "timer": "node ./timer/index.js",
+    "console": "node --inspect ./console/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "moment": "^2.22.2"
   }
 }
